@@ -1,0 +1,9 @@
+
+#ifndef CLIONPROJECT_3DARRAYOFFSET_H
+#define CLIONPROJECT_3DARRAYOFFSET_H
+
+void ThreeDArrayOffetFunc1();
+void ThreeDArrayOffetFunc2();
+
+
+#endif //CLIONPROJECT_3DARRAYOFFSET_H
